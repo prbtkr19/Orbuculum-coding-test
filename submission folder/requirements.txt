@@ -1,0 +1,9 @@
+Requirements
+python
+juptyer notebook
+spyder
+numpy
+matploltib
+seaborn
+pandas
+CNN
